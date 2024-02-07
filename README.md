@@ -12,7 +12,7 @@ A python script that can export table  from a webpage and save it into csv file.
 Suppose you have a webpage with tables at the URL http://example.com/tables. You can use this script to extract and export those tables by running the script and providing the URL as input.
 
 ## Error Handling
-- if your table is not importing it might not have <table></table> tag
+- if your table is not importing it might not have `<table></table>` tag
 
 ## Requirements
 - Python 3.x
