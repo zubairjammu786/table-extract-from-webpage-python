@@ -8,6 +8,9 @@ A python script that can export table  from a webpage and save it into csv file.
 4. Seperate each table's csv file download
 5. Can extract thousands rows of table in couple of seconds
 
+## Note
+`table_view_only.py` just show the table of required webpage. it doesn't export them as csv. for that purpose you can run other file `extract_table.py`
+
 ## Example
 Suppose you have a webpage with tables at the URL http://example.com/tables. You can use this script to extract and export those tables by running the script and providing the URL as input.
 
