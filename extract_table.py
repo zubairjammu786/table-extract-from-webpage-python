@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import csv
 import random
 
+# for download table into csv file
+
 def extract_tables(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
