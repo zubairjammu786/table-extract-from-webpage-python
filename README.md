@@ -49,7 +49,7 @@ Follow the prompt and enter the URL of the webpage containing tables.
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## Like the Project ?
-If you find this project helpful you can help the developer to bring more tools like this [Here][https://buymeacoffee](https://www.buymeacoffee.com/zubairjammu)
+If you find this project helpful you can help the developer to bring more tools like this [Here](https://www.buymeacoffee.com/zubairjammu)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
